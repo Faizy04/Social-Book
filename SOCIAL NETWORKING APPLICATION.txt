@@ -1,0 +1,31 @@
+SOCIAL NETWORKING APPLICATION
+------------------------------
+
+Project setup
+-------------
+
+1. Create a folder ->Type cmd
+2. cd folder name 
+3. pip install django
+4. django-admin startproject projectname ( in this project the project name is social_book)
+5. django-admin startapp appname ( in this project the app name is core)
+6. python manage.py runserver
+7. vs code -> Change powershell to command prompt
+8. import manage.py to the vs code
+9. Create urls.py file in core app
+----------------------------------------------------------------------------------------
+
+signup
+--------
+search/signup  for signup
+
+
+Login
+-------
+search /signin for signin
+
+Account settings
+-----------------
+search /settigs for account settings
+
+
